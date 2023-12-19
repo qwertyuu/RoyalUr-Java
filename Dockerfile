@@ -5,4 +5,4 @@ COPY . .
 RUN mvn install
 RUN mvn clean compile assembly:single
 EXPOSE 8080
-CMD ["/usr/src/app/startup.sh"]
+ENTRYPOINT ["sh", "/usr/src/app/startup.sh"]
