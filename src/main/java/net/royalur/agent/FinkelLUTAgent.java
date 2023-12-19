@@ -58,6 +58,7 @@ public class FinkelLUTAgent<
                 bestMove = move;
             }
         }
+        System.out.println("Best score: " + bestScore);
         return bestMove;
     }
 }
