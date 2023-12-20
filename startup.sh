@@ -1,1 +1,1 @@
-curl -o /usr/src/app/finkel.rgu -L "https://uc6d038de5bfb654dcd4ae77de37.dl.dropboxusercontent.com/cd/0/inline/CJrXFpT8F1zTerwaFcJKg82UaUnHFUH-W64p1qtepmIDfqFKkEoUuJNSmGUzPax1Zaxc1yYz-hfFfDeZd6H22e7DYIHwe40gXBY_cYy3O48gBkO_ERqJqAEtG-XYEV7G8YQ/file?dl=1" && java -Xmx8g -jar target/royalur-2.3.0-SNAPSHOT-jar-with-dependencies.jar
+curl -o /usr/src/app/finkel.rgu -L "https://www.dropbox.com/scl/fi/04ckxz755eta6et70ixwk/finkel.rgu?rlkey=oaf6vt7jy55ieu6zlbngdt3p4&dl=1" && java -Xmx8g -jar target/royalur-2.3.0-SNAPSHOT-jar-with-dependencies.jar
